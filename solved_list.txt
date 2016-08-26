@@ -1,0 +1,252 @@
+1	Sum "A+B"	Python	view
+Jan 12 2016	-
+2	Sum in Loop	Python	view
+Jan 12 2016	-
+3	Sums in Loop	Python	view
+Jan 12 2016	-
+4	Minimum of Two	Python	view
+Jan 12 2016	-
+5	Minimum of Three	Python	view
+Jan 12 2016	-
+7	Fahrenheit to Celsius	Python	view
+Jan 12 2016	-
+6	Rounding	Python	view
+Jan 12 2016	-
+8	Arithmetic Progression	Python	view
+Jan 12 2016	-
+9	Triangles	Python	view
+Jan 12 2016	-
+10	Linear Function	Python	view
+Jan 12 2016	-
+11	Sum of digits	Python	view
+Jan 12 2016	-
+12	Modulo and time difference	Python	view
+Jan 13 2016	-
+13	Weighted sum of digits	Python	view
+Jan 13 2016	-
+15	Maximum of array	Python	view
+Jan 13 2016	-
+16	Average of an array	Python	view
+Jan 13 2016	-
+17	Array Checksum	Python	view
+Jan 13 2016	-
+18	Square Root	Python	view
+Jan 13 2016	-
+19	Matching Brackets	Python	view
+Jan 13 2016	-
+20	Vowel Count	Python	view
+Jan 13 2016	-
+21	Array Counters	Python	view
+Jan 13 2016	-
+67	Fibonacci Sequence	Python	view
+Jan 13 2016	-
+28	Body Mass Index	Python	view
+Jan 14 2016	-
+41	Median of Three	Python	view
+Jan 14 2016	-
+43	Dice Rolling	Python	view
+Jan 14 2016	-
+30	Reverse String	Python	view
+Jan 14 2016	-
+48	Collatz Sequence	Python	view
+Jan 14 2016	-
+27	Bubble Sort	Python	view
+Jan 14 2016	-
+23	Bubble in Array	Python	view
+Jan 14 2016	-
+29	Sort with Indexes	Python	view
+Jan 14 2016	-
+26	Greatest Common Divisor	Python	view
+Jan 14 2016	-
+25	Linear Congruential Generator	Python	view
+Jan 14 2016	-
+31	Rotate String	Python	view
+Jan 14 2016	-
+50	Palindromes	Python	view
+Jan 14 2016	-
+57	Smoothing the Weather	Python	view
+Jan 14 2016	-
+68	Bicycle Race	Python	view
+Jan 14 2016	-
+32	Josephus Problem	Python	view
+Jan 14 2016	-
+52	Pythagorean Theorem	Python	view
+Jan 14 2016	-
+44	Double Dice Roll	Python	view
+Jan 14 2016	-
+35	Savings Calculator	Python	view
+Jan 15 2016	-
+55	Matching Words	Ruby	view
+Jan 15 2016	-
+104	Triangle Area	Python	view
+Jan 15 2016	-
+47	Caesar Shift Cipher	Python	view
+Jan 15 2016	-
+61	Prime Numbers Generation	Python	view
+Jan 15 2016	-
+49	Rock Paper Scissors	Python	view
+Jan 15 2016	-
+58	Card Names	Python	view
+Jan 15 2016	-
+59	Bulls and Cows	Python	view
+Jan 16 2016	-
+128	Combinations Counting	Python	view
+Jan 16 2016	-
+34	Binary Search	Python	view
+Jan 16 2016	-
+120	Selection Sort	Python	view
+Jan 16 2016	-
+38	Quadratic Equation	Python	view
+Jan 16 2016	-
+33	Parity Control	Python	view
+Jan 17 2016	-
+42	Blackjack Counting	Python	view
+Jan 17 2016	-
+53	King and Queen	Python	view
+Jan 17 2016	-
+72	Funny Words Generator	Python	view
+Jan 17 2016	-
+69	Fibonacci Divisibility	Python	view
+Jan 17 2016	-
+46	Tic-Tac-Toe	Python	view
+Jan 18 2016	-
+37	Mortgage Calculator	Python	view
+Jan 18 2016	-
+134	Flying Text Screensaver	Python	view
+Jan 18 2016	-
+127	Anagrams	Python	view
+Jan 18 2016	-
+39	Share Price Volatility	Python	view
+Jan 18 2016	-
+62	Prime Ranges	Python	view
+Jan 18 2016	-
+75	Yacht or Dice Poker	Python	view
+Jan 18 2016	-
+156	Luhn Algorithm	Python	view
+Jan 19 2016	-
+80	Duel Chances	Python	view
+Jan 19 2016	-
+22	Two Printers	Ruby	view
+Jan 19 2016	-
+171	Tree Height Measurement	Python	view
+Jan 20 2016	-
+97	Girls and Pigs	Python	view
+Jan 20 2016	-
+135	Variable Length Code	C#	view
+Jan 20 2016	-
+94	Fool's Day 2014	Python	view
+Jan 20 2016	-
+45	Cards Shuffling	Python	view
+Jan 20 2016	-
+14	Modular Calculator	Python	view
+Jan 20 2016	-
+105	Convex Polygon Area	Python	view
+Jan 22 2016	-
+70	Most Frequent Word	Python	view
+Jan 22 2016	-
+98	Azimuth at Treasure Island	Python	view
+Jan 22 2016	-
+87	Tree Builder	Python	view
+Jan 22 2016	-
+172	Cloud Altitude Measurement	Python	view
+Jan 22 2016	-
+77	Point to Segment Distance	Python	view
+Jan 25 2016	-
+82	Levenshtein Distance	Python	view
+Jan 25 2016	-
+122	QuickSort	Python	view
+Jul 13 2016	-
+181	Reverse Polish Notation	Python	view
+Jul 19 2016	-
+24	Neumann's Random Generator	Python	view
+Jul 20 2016	-
+73	Hexagonal Grid	C#	view
+Jul 20 2016	-
+83	Graph Generator	Python	view
+Jul 25 2016	-
+95	Simple Linear Regression	Python	view
+Jul 25 2016	-
+60	Sweet Harvest	Python	view
+Jul 26 2016	-
+65	Transitive Closure on Candy States	Python	view
+Jul 26 2016	-
+79	Cycles Detection	Python	view
+Jul 27 2016	-
+131	Four Pics One Word	C#	view
+Jul 28 2016	-
+84	Dijkstra in the Network	Python	view
+Jul 29 2016	-
+194	Convex Hull and Farmers	Python	view
+Jul 29 2016	-
+192	Gangster Battles	Python	view
+Jul 29 2016	-
+211	Information Entropy	Python	view
+Jul 30 2016	-
+161	Topological Sorting	Python	view
+Jul 31 2016	-
+85	Rotation in 2D Space	Python	view
+Aug 1 2016	-
+138	Huffman Coding	Python	view
+Aug 2 2016	-
+202	Dancing Pairs	Python	view
+Aug 3 2016	-
+93	Starving Priority Queue	Python	view
+Aug 4 2016	-
+154	Breadth First Search	Python	view
+Aug 4 2016	-
+193	Maximum Flow	Python	view
+Aug 5 2016	-
+160	Social Web Scraper	Python	view
+Aug 5 2016	-
+143	Extended Euclidean Algorithm	Python	view
+Aug 8 2016	-
+90	Lexicographic Permutations	Python	view
+Aug 8 2016	-
+144	Modular Inverse	C#	view
+Aug 8 2016	-
+144	Modular Inverse	Python	view
+Aug 8 2016	-
+165	Safe Landing	Python	view
+Aug 9 2016	-
+92	Binary Heap	Python	view
+Aug 10 2016	-
+64	Maze Pathfinder	Python	view
+Aug 10 2016	-
+99	Uphill Shooting	Python	view
+Aug 11 2016	-
+191	Spaceship Weight Fraud	Python	view
+Aug 12 2016	-
+170	Binary Search in Array	Ruby	view
+Aug 14 2016	-
+103	Easter Eggs	Python	view
+Aug 14 2016	-
+40	Paths in the Grid	Python	view
+Aug 16 2016	-
+151	Word Ladders	Python	view
+Aug 16 2016	-
+78	Bezier Curves	Python	view
+Aug 17 2016	-
+125	Bogosort	Python	view
+Aug 18 2016	-
+133	Billiard Ball	Python	view
+Aug 18 2016	-
+207	Suffix Array	Python	view
+Aug 19 2016	-
+187	Static Web Page	Python	view
+Aug 19 2016	-
+188	Basics of HTML	Python	view
+Aug 19 2016	-
+74	Clock Hands	Python	view
+Aug 20 2016	-
+158	Hamming Codes	Python	view
+Aug 21 2016	-
+146	Color Cubes	Python	view
+Aug 21 2016	-
+121	Insertion Sort	Python	view
+Aug 22 2016	-
+206	Base-32 Encoding	Python	view
+Aug 22 2016	-
+54	Pythagorean Triples	Python	view
+Aug 22 2016	-
+201	Point in Polygon	Python	view
+Aug 22 2016	-
