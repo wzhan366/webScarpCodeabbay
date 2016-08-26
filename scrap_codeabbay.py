@@ -76,16 +76,26 @@ def all_tags_info(tags):
 
 if __name__ == '__main__':
 	faild_num = [114, 74, 116, 51, 56, 125]
+	url = "http://www.codeabbey.com/index/task_list"
+	problems, tags = get_info_list(url)
+	json.dump(problems, open("text.txt",'w'))
+	json.dump(tags, open("text1.txt",'w'))
 	tags = json.load(open("text1.txt"))
 	all_tags = all_tags_info(tags)
+	# print all_tags, len(all_tags)
 	tags_dic = {}
 	for tag in all_tags:
 		tags_dic[tag] = 0
+
 	print all_tags, len(all_tags)
 	problems = json.load(open("text.txt"))
 	f_tags, tags_dic = get_fail_tags(faild_num, problems, tags_dic)
+
+
 	total = sum(tags_dic.values())
 	for k, v in tags_dic.items():
+		if v != 0:
+			print k, v
 		if v != 0:
 			print k, v
 
