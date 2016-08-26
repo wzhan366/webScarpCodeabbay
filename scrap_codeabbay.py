@@ -41,6 +41,7 @@ def download_file(url):
 	print("Completed")
 
 def down_file(url):
+#here the pdfkit has some problems with a library
 	pdfkit.from_url(url, 'out.pdf')
 
 def update_tags(url):
@@ -57,6 +58,7 @@ def update_tags(url):
 		return []
 
 def get_fail_tags(l, a, tags_dic):
+# get tags of fail problems  
 	f_tags = []
 	for i in l:
 		for item in a[str(i)][-1]:
@@ -65,6 +67,7 @@ def get_fail_tags(l, a, tags_dic):
 	return set(f_tags), tags_dic
 
 def all_tags_info(tags):
+# get the tag of each problem
 	all_tags = []
 	for tag in tags:
 		for i in tag:
@@ -73,33 +76,16 @@ def all_tags_info(tags):
 
 if __name__ == '__main__':
 	faild_num = [114, 74, 116, 51, 56, 125]
-	# url = "http://www.codeabbey.com/index/task_list"
-	# problems, tags = get_info_list(url)
-	# json.dump(problems, open("text.txt",'w'))
-	# json.dump(tags, open("text1.txt",'w'))
 	tags = json.load(open("text1.txt"))
 	all_tags = all_tags_info(tags)
-	# print all_tags, len(all_tags)
 	tags_dic = {}
 	for tag in all_tags:
 		tags_dic[tag] = 0
-
 	print all_tags, len(all_tags)
 	problems = json.load(open("text.txt"))
 	f_tags, tags_dic = get_fail_tags(faild_num, problems, tags_dic)
-	# print f_tags
-
-	# print tags_dic
-
 	total = sum(tags_dic.values())
 	for k, v in tags_dic.items():
 		if v != 0:
 			print k, v
-
-	
-
-	# get_fail_tags(faild_num, problems)
-	# url = 'http://www.codeabbey.com/index/task_view/connect-four'
-	# update_tags(url)
-	# down_file(url)
 
