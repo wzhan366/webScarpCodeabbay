@@ -1,5 +1,7 @@
-from threading import Thread
+'''this one is an example of scarp stock info from yahoo finance'''
 
+
+from threading import Thread
 import urllib
 import re
 symbolfile = open("symbols.txt",'r')
