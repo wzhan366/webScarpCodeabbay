@@ -15,15 +15,12 @@ Then, print them out for review and make notes.
 ### Step
 -Xhtml2pdf error. 
     The xhtml2pdf library has some handler error, you should use this code to avoid it:
-
- 'import logging'
- 
- 
-  'class PisaNullHandler(logging.Handler):'
-  
-       'def emit(self, record):'
-         'pass'
-   'logging.getLogger("xhtml2pdf").addHandler(PisaNullHandler())'
+        
+        import logging
+        class PisaNullHandler(logging.Handler):
+             def emit(self, record):
+                pass
+        logging.getLogger("xhtml2pdf").addHandler(PisaNullHandler())
 
 
 -Where to parse
