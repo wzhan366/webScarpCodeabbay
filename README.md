@@ -13,7 +13,7 @@ Then, print them out for review and make notes.
 
 ## Key step or tool
 --Step
--Xhtml2pdf error. The xhtml2pdf library has some handler error, you should use this code to avoid it
+-Xhtml2pdf error. The xhtml2pdf library has some handler error, you should use this code to avoid it:
 '''
 import logging  # this is one is used to solve a problem of importing xhtml2pdf
 class PisaNullHandler(logging.Handler):
