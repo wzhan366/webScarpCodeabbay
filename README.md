@@ -13,7 +13,7 @@ Then, print them out for review and make notes.
 
 ## Key step or tool
 ### Step
--Xhtml2pdf error. 
+- Xhtml2pdf error. 
     The xhtml2pdf library has some handler error, you should use this code to avoid it:
         
         import logging
@@ -23,7 +23,7 @@ Then, print them out for review and make notes.
         logging.getLogger("xhtml2pdf").addHandler(PisaNullHandler())
 
 
--Where to parse
+- Where to parse
     We use the class name of table tag to locate the table and parse info of table.
 
 ### Tool
